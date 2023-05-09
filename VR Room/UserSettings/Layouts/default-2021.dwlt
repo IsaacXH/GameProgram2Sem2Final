@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 3440
     height: 1357
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 96
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 813
     height: 1307
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 97
+  controlID: 77
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 98
+  controlID: 78
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,22 +318,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/CoffeeShopStarterPack/Models
+    - Assets/CoffeeShopStarterPack/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/CoffeeShopStarterPack/Models
+  - Assets/CoffeeShopStarterPack/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\739319\Documents\GitHub\GameProgram2Sem2Final\VR Room
+  m_LastProjectPath: C:\Users\709475\Documents\unity\github\GameProgram2Sem2Final\VR
+    Room
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 42760000
-    m_LastClickedID: 30274
-    m_ExpandedIDs: 00000000527200005472000056720000587200005a720000f47300004476000000ca9a3b
+    scrollPos: {x: 0, y: 72}
+    m_SelectedIDs: 4e770000
+    m_LastClickedID: 30542
+    m_ExpandedIDs: 00000000cc7200005e7400006274000066740000287700002e770000327700004e77000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +362,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000527200005472000056720000587200005a7200005c720000
+    m_ExpandedIDs: 00000000cc720000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -491,9 +492,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b0790000b2790000ae7900007a770000ac790000aa790000a6790000a8790000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 1efbffff
+      m_ExpandedIDs: dcfaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -743,9 +744,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 37.649258, y: 3.1467886, z: 0.85137635}
+    m_Target: {x: 13.611927, y: 2.5031652, z: -6.1590967}
     speed: 2
-    m_Value: {x: 37.649258, y: 3.1467886, z: 0.85137635}
+    m_Value: {x: 13.611927, y: 2.5031652, z: -6.1590967}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -792,11 +793,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.011984592, y: -0.7350501, z: -0.013010292, w: -0.6777935}
+    m_Target: {x: 0.042672556, y: -0.2856825, z: -0.013202559, w: -0.9571345}
     speed: 2
-    m_Value: {x: 0.011984499, y: -0.73504436, z: -0.013010192, w: -0.67778826}
+    m_Value: {x: 0.042658757, y: -0.2871586, z: -0.013268436, w: -0.9568407}
   m_Size:
-    m_Target: 6.311804
+    m_Target: 0.6047524
     speed: 2
     m_Value: 6.311804
   m_Ortho:
