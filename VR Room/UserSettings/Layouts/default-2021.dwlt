@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 3440
     height: 1357
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 26
+  controlID: 16
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 27
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -292,25 +292,24 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 0
+    m_SearchArea: 1
     m_Folders:
-    - Assets/Alstrainfinite/KitchenAppliances/Prefabs
+    - Assets/_Course Library/Particles
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Alstrainfinite/KitchenAppliances/Prefabs
+  - Assets/_Course Library/Particles
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\709475\Documents\unity\github\GameProgram2Sem2Final\VR
-    Room
+  m_LastProjectPath: C:\Users\739319\Documents\GitHub\GameProgram2Sem2Final\VR Room
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 55}
-    m_SelectedIDs: de7d0000
-    m_LastClickedID: 32222
-    m_ExpandedIDs: 000000003470000036700000387000003a7000003c7000003e70000040700000427000004470000046700000487000004a7000004c7000004e70000050700000527000005470000056700000587000005a7000005c7000005e70000060700000627000006470000066700000687000006a7000006c7000006e70000070700000727000007470000076700000787000007a7000007c70000030720000de7d000000ca9a3b
+    scrollPos: {x: 0, y: 243}
+    m_SelectedIDs: 1e7a0000
+    m_LastClickedID: 31262
+    m_ExpandedIDs: 000000008c7900008e79000090790000927900009479000096790000987900009a7900009c7900009e790000a0790000a2790000a4790000a6790000a8790000aa790000ac790000ae790000b079000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -338,7 +337,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003470000036700000387000003a7000003c7000003e70000040700000427000004470000046700000487000004a7000004c7000004e70000050700000527000005470000056700000587000005a7000005c7000005e70000060700000627000006470000066700000687000006a7000006c7000006e70000070700000727000007470000076700000787000007a7000007c700000
+    m_ExpandedIDs: 000000008c7900008e79000090790000927900009479000096790000987900009a7900009c7900009e790000a0790000a2790000a4790000a6790000a8790000aa790000ac790000ae790000b0790000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -468,9 +467,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 6a1ffffffa26ffff1c36ffffd83cffff2cfbffff0476000060760000207700005a8a0000b68a0000
+      m_SelectedIDs: 6c3dffff
+      m_LastClickedID: -49812
+      m_ExpandedIDs: 663dffff1c42ffffdc4bffff5873ffff56f7ffff04fbffff2cfbfffffa700000b4710000ce710000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -720,9 +719,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 18.648548, y: 8.671978, z: -62.9028}
+    m_Target: {x: 19.53128, y: 1.7296933, z: 0.65870845}
     speed: 2
-    m_Value: {x: 18.648548, y: 8.671978, z: -62.9028}
+    m_Value: {x: 19.53128, y: 1.7296933, z: 0.65870845}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -769,20 +768,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.2699839, y: -0.67269003, z: 0.2887911, w: 0.62405425}
+    m_Target: {x: -0.22837952, y: -0.68750954, z: 0.24203518, w: -0.64515686}
     speed: 2
-    m_Value: {x: 0.26928183, y: -0.67371243, z: 0.28803593, w: 0.6250073}
+    m_Value: {x: -0.22842121, y: -0.68763506, z: 0.24207936, w: -0.64527464}
   m_Size:
-    m_Target: 8.209271
+    m_Target: 0.33489963
     speed: 2
-    m_Value: 7.8557625
+    m_Value: 0.33489963
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.5402294
-    m_SpeedNormalized: 0.76999974
+    m_Speed: 1.7801093
+    m_SpeedNormalized: 0.8899996
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -793,7 +792,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.0034770577, y: -0.9954629, z: 0.040642217, w: 0.08441553}
+  m_LastSceneViewRotation: {x: -0.27428415, y: -0.6462967, z: 0.26756787, w: -0.6596331}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
