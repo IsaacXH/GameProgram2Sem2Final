@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 452
     height: 987
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 103
+  controlID: 19
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 115
+  controlID: 25
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,8 +244,8 @@ MonoBehaviour:
     y: 0
     width: 1013
     height: 603
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -294,23 +294,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RDL/Security_Pack/Prefabs
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/RDL/Security_Pack/Prefabs
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jenkins Robotics\Documents\Unity\GameProgram2Sem2Final\VR
     Room
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 1577}
-    m_SelectedIDs: e4ce0100
-    m_LastClickedID: 118500
-    m_ExpandedIDs: 00000000144b01001c4b01001e4b0100224b0100244b0100264b01002c4b0100304b0100324b0100ea4d0100265001004e510100b0520100ba520100c2520100f252010010530100925401000c55010024550100265501002a55010032550100385501003a5501003c5501004055010042550100e4850100ee8501000a8601001486010026860100a6950100c6ce0100dace0100dcce0100e0ce0100e2ce0100f8ce010000ca9a3b
+    scrollPos: {x: 0, y: 121}
+    m_SelectedIDs: 8a7a0000
+    m_LastClickedID: 31370
+    m_ExpandedIDs: 00000000b4780000787a0000847a00008c7a00009a7a00006a7b00001091000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -338,7 +338,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000144b0100
+    m_ExpandedIDs: 00000000b4780000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -467,10 +467,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 687}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2a56fcffc6d5fcff58d8fcff0845fdff904efdfffe54fdfffa6efdff1673fdffe400feff80fbfeff0808ffffcc0bffffe63fffff72460100ae490100024a01008a5c0100fe5c0100fc5d0100026801005668010018b90100fcca0100
+      m_ExpandedIDs: b655ffff5c78ffffcc80ffffeed3ffff32fbffffb8720000e6940000a89500002ca00000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -486,7 +486,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 2}
+        m_ClientGUIView: {fileID: 10}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -720,9 +720,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -20.608433, y: -0.76250434, z: -158.23724}
+    m_Target: {x: 56.50095, y: 15.903686, z: 77.69462}
     speed: 2
-    m_Value: {x: -20.608433, y: -0.76250434, z: -158.23724}
+    m_Value: {x: 56.50095, y: 15.903686, z: 77.69462}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -769,9 +769,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0025978817, y: 0.9953854, z: -0.022649268, w: -0.08360179}
+    m_Target: {x: -0.032981884, y: 0.28255615, z: 0.008912392, w: 0.95775574}
     speed: 2
-    m_Value: {x: -0.0026340913, y: 0.9961054, z: -0.022664607, w: -0.085167155}
+    m_Value: {x: -0.03444814, y: 0.2827828, z: 0.00934283, w: 0.9585197}
   m_Size:
     m_Target: 62.333485
     speed: 2
