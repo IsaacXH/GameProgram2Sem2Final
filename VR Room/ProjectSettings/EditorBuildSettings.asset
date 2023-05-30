@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Create-with-VR-Starter-Scene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/ProjectScene/CulinaryArtsMainRoom.unity
+    guid: 87423cadff88e824792b078e2f37695f
+  - enabled: 1
+    path: Assets/ProjectScene/Kitchen.unity
+    guid: f526eb09df73b104b998502c1f205b41
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
