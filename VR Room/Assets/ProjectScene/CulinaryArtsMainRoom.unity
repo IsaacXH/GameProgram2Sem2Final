@@ -3713,7 +3713,7 @@ Transform:
   m_Children:
   - {fileID: 1533540288}
   m_Father: {fileID: 1838044834}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &522389821
 PrefabInstance:
@@ -7165,6 +7165,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: XR Device Simulator
+      objectReference: {fileID: 0}
+    - target: {fileID: 6598815579406187037, guid: 9f5a24a380916d14db9775daab4fe333,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f5a24a380916d14db9775daab4fe333, type: 3}
@@ -13391,8 +13396,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 905891878}
-  - {fileID: 906606963}
   - {fileID: 518762776}
+  - {fileID: 906606963}
   - {fileID: 1103556253}
   m_Father: {fileID: 0}
   m_RootOrder: 9
